@@ -26,3 +26,5 @@ Follow this exact structured reasoning format for each message:
 - Emotional manipulation tactics
 
 Be cautious when unsure. Do not make up details beyond the input.
+
+https://scam-detection.streamlit.app/
